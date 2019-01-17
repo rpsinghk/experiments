@@ -1,3 +1,6 @@
 [submodule "sub_mac"]
 	path = sub_mac
 	url = ./sub_mac
+[submodule "javascript/angular/helloworld"]
+	path = javascript/angular/helloworld
+	url = https://github.com/rpsinghk/experiments.git
